@@ -1,0 +1,577 @@
+{
+  "scope": "New HD additions only; original and third-party rights retained",
+  "files": [
+    {
+      "path": "ui/hd/exports/card-buckethead.png",
+      "sha256": "9b7c48bf647449bda73c4897ea8802013132acd72fdc58d6ef1e3cac58055d23"
+    },
+    {
+      "path": "ui/hd/exports/card-cabbage.png",
+      "sha256": "47e62507e96acd2aef47966d9777130337a1f9c315b0dcd45a54f38906da5fa3"
+    },
+    {
+      "path": "ui/hd/exports/card-cherry-bomb.png",
+      "sha256": "5949ada98c1abba2f330fca32269953a017baba22e083b8d435ed778da759a4d"
+    },
+    {
+      "path": "ui/hd/exports/card-conehead.png",
+      "sha256": "62b9c4fb3307accc16f612ea8a848e44a2f5e42749f548ec5902e012e9d4f172"
+    },
+    {
+      "path": "ui/hd/exports/card-football.png",
+      "sha256": "7dfe82cfb71d84676feba90e9653b097e994fce092b9e797d1eccb55ad804717"
+    },
+    {
+      "path": "ui/hd/exports/card-jalapeno.png",
+      "sha256": "51e80a483398c2cfa220cfab6043a4aa83f8f8cb1cf5a406772fc0033cd8e0c1"
+    },
+    {
+      "path": "ui/hd/exports/card-newspaper.png",
+      "sha256": "f10d663e4d1ad19c3eebecf145cbf5419c29ebc885a857c9ff9513a86652344e"
+    },
+    {
+      "path": "ui/hd/exports/card-peashooter.png",
+      "sha256": "c66c8cd6da631d8c5ff94a502310daac10651da53edd4de54a9031259b28b356"
+    },
+    {
+      "path": "ui/hd/exports/card-pole-vault.png",
+      "sha256": "58077df297fe59c61cac83586bc8f7d53923fe66394ef01ebfae01b51668d8bd"
+    },
+    {
+      "path": "ui/hd/exports/card-potato-mine.png",
+      "sha256": "d1850de5e33c56ebc6dd86ac0a723b29f61586bb7b37f6d287603b5850bd58cc"
+    },
+    {
+      "path": "ui/hd/exports/card-repeater.png",
+      "sha256": "63111fecbdcc34690b49116259fa980b65548f43b5da794f3c3303938d0ffc2d"
+    },
+    {
+      "path": "ui/hd/exports/card-screen-door.png",
+      "sha256": "a57b107e10e3ed76b958d9bbf759dd352d769e138cc901bec27c84e80d9077aa"
+    },
+    {
+      "path": "ui/hd/exports/card-snow-pea.png",
+      "sha256": "4c8d3252588796f131f37dd866315ca9c8d2fe42e919a9dd68f16a25d7f009dd"
+    },
+    {
+      "path": "ui/hd/exports/card-sunflower.png",
+      "sha256": "fcef9c032e35ce93af12b4638c65a3cee9d56ec7ec9231593cdb90aaabf3205b"
+    },
+    {
+      "path": "ui/hd/exports/card-tall-nut.png",
+      "sha256": "2bb1456f520529a4853798efee3841856eb63b167f109061a2a988bc976b160c"
+    },
+    {
+      "path": "ui/hd/exports/card-wall-nut.png",
+      "sha256": "00afebbd5b72698fa3cb00a82e5fe746c4be1a7e0eb843858b8f6863e44530cf"
+    },
+    {
+      "path": "ui/hd/exports/card-zombie.png",
+      "sha256": "e71b7b5f4d8e306f541e9266b8406da44b236a51b96e0d9b0b22aa8bdcc3796d"
+    },
+    {
+      "path": "ui/hd/exports/courtyard-stage.png",
+      "sha256": "a39172a8f3d0aaf1232a5467bff4bebc8887aa59095a3753431c1ab5e3aee419"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-00-imitater-peashooter.png",
+      "sha256": "9b1b8ae7fad8ed4114eaca90f07afcb002e514c71b3f8e4b30a93f11399882c3"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-01-imitater-sunflower.png",
+      "sha256": "22bbd2170cc10a49d6e51a67cf4839eee995bb88197c153bce9971574f81ebce"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-02-imitater-cherrybomb.png",
+      "sha256": "aec6aa6a1db3c18d4740b01103f46eb79e62f1f3b6dfacbe06f2d63fd99a882f"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-03-imitater-wallnut.png",
+      "sha256": "929fa736e6537acf32f2472cd89e37b25307d6d0b9bd814c8c268b5659eca202"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-04-imitater-potatomine.png",
+      "sha256": "78c7c699a5d8b7fcb084f8821688b1e5efe8cf48030cec691474e74170c8e342"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-05-imitater-snowpea.png",
+      "sha256": "8c8b5eecb2f4a94d0ba0b9934da9d8efa7cd9951565b726158ed551f930718df"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-06-imitater-chomper.png",
+      "sha256": "22d5c2cde098c8505391d76a38dee592a66a22171450289050c997809a9435b7"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-07-imitater-repeater.png",
+      "sha256": "57f39df0339fd004dc02de7babcaf6eb8550de40d45384a10a32d9d689f6bf65"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-08-imitater-puffshroom.png",
+      "sha256": "e84fc75a4cf240bc3db47bfade4989610c9b450c85a98afc90e17727049a6207"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-09-imitater-sunshroom.png",
+      "sha256": "2015f51f8fb67ef22e391cf2ca6f39e055c0a6fdcbdd06d04d5deddf1f17cf58"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-10-imitater-fumeshroom.png",
+      "sha256": "2af7591b0c65a36c18a8e1373b4d3f571f2f1712bc8c21419cd2599cb64d3d90"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-11-imitater-gravebuster.png",
+      "sha256": "633bae79a1d0dac0904cfd193e48420c2365e77a06f530bec346b311c8d5009d"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-12-imitater-hypnoshroom.png",
+      "sha256": "ea85ca12c714161ca62077457cbe8da63bc63804566a9ce5b342ee8b940cfa28"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-13-imitater-scaredyshroom.png",
+      "sha256": "70f3edadf6fa15eda7328acd526a932d4326e2a0bfc8bf50994e2c23d65fcb23"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-14-imitater-iceshroom.png",
+      "sha256": "f17271bf5adab12986f04c7aec684d2988deafdb6cdd548c2f922009ecab174c"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-15-imitater-doomshroom.png",
+      "sha256": "ad2524347a8ef39eee0446496a894eecedac89f10235a522494a42639f77155b"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-16-imitater-lilypad.png",
+      "sha256": "6c3a3b1d5ead49757a8640ea3cb5be1c457682b83e5a4018e87283dfaece4df6"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-17-imitater-squash.png",
+      "sha256": "36e6fa7c8a2f8a5b5969284020964a8c2b31a9d7a10e43d5ebf5f7be348bfb7d"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-18-imitater-threepeater.png",
+      "sha256": "718d922e66e1bb26251b27a10442d1b5e53990be0dbbe5cff0c28f69c1fb7841"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-19-imitater-tanglekelp.png",
+      "sha256": "bc12e10230bdf4fc94ca05e12dede2b7fc8cf695a240163f11620db8e1ec9c7d"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-20-imitater-jalapeno.png",
+      "sha256": "706cd20580989575bfa87944fb7a9904047702ce39ba570c5251eb90eb12c89a"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-21-imitater-spikeweed.png",
+      "sha256": "850214ddd7e530823c630fee9ddf141668cc0979223c891c388f952bf3ecb002"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-22-imitater-torchwood.png",
+      "sha256": "f394de094167ae1646f23d5bbb62f04d1c98a3771ad61622539ba263a6b5475f"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-23-imitater-tallnut.png",
+      "sha256": "51106e52bbc6fbe24fb76f5894cb8b5a3ae73e6f6b24202443fdc08ec6c1baab"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-24-imitater-seashroom.png",
+      "sha256": "b200cbfb787b8461291f572e02cdb981c57e00bef5bb7a5be7928e1688488566"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-25-imitater-plantern.png",
+      "sha256": "945e63ed68bdf31c2aa04fc155c73094b6dff33890c74b7294dcf3a4b5c3bac5"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-26-imitater-cactus.png",
+      "sha256": "f9352471b341086d8b801befc7748b01c7280d4b0890fd3452980decc2655e52"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-27-imitater-blover.png",
+      "sha256": "9e72d97cf474fd29b3988817848ebaae8f246152fb6cf9051e3941b2a53ff67c"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-28-imitater-splitpea.png",
+      "sha256": "f8e44b48bcdf15756369b9feb47a4e897222b868c968e9bfe603186d350a548b"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-29-imitater-starfruit.png",
+      "sha256": "e53d7e354569f136479dfddc0c9fb00424eee7590cd191dea2e1c1ac8e33ed6c"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-30-imitater-pumpkinshell.png",
+      "sha256": "c3af59883d2245363b7fbfec376696d42f86b638e1f3872d1e9ac688eba40de5"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-31-imitater-magnetshroom.png",
+      "sha256": "f22bd3aadbe1ea9849c78e84a773190c4538d149f4b718a45653055cc7e368c0"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-32-imitater-cabbagepult.png",
+      "sha256": "99da6b84d2265df628667cbbd960037441398341a3683b06b06be2ae3cd077d9"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-33-imitater-flowerpot.png",
+      "sha256": "fcba848653b944360b62e60498ec00577bdeb46a04395c1b874f3328a7739a71"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-34-imitater-kernelpult.png",
+      "sha256": "522a56a424398ec5e310d135be3ce764f2372b7780ad10088013e2f528ddaa17"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-35-imitater-instant-coffee.png",
+      "sha256": "89e4f913697ec5ca9cc2f3d6a93d0d549050cfcc6b16e31cab68eba6706f2fe0"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-36-imitater-garlic.png",
+      "sha256": "f8200dd255e5cab0cdc2d9a75d93b4dc1bc5836cd7af62824bfb159b2edd1154"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-37-imitater-umbrella.png",
+      "sha256": "91dcfb9820961af0093ebb4d35b57a99add4689f19c67fc007b83d2eccf20a82"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-38-imitater-marigold.png",
+      "sha256": "202d17239daea67a5048ebabef4dc163f621427ac488167eec71c60c0602430d"
+    },
+    {
+      "path": "ui/hd/original200/exports/imitater-39-imitater-melonpult.png",
+      "sha256": "d2d64cbc72f61c2efc90a7ca20ba71c87424698c2a568726ffa37f003a7d0dcb"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-00-peashooter.png",
+      "sha256": "037700deab0d192c4d305cb471f004945f0b3805a3e3cba1e6f7571b9d486ee9"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-01-sunflower.png",
+      "sha256": "064966d226fd61732a1c05c1cea4136c363d9675d758450fac7c54b1c0daa5f9"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-02-cherrybomb.png",
+      "sha256": "38fcf8b3eb2af2c1575d3da481cb33f2cb12f05acf8ed433350aa84484b6251d"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-03-wallnut.png",
+      "sha256": "9be81fb17993352b781b0aebbec2f10972decaccdc547c67ba412e266084b23a"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-04-potatomine.png",
+      "sha256": "d72862007842db724fce4589d420ef397ddb48c3c762e51736d36977a8dd1f80"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-05-snowpea.png",
+      "sha256": "a40735b16d9123ddc11e807b83ad111df1c85987db40bbe242c1329c59d52a45"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-06-chomper.png",
+      "sha256": "5508f6bc8056a3b1342de461df56adfc0801fa0a0417262bec444a8b45f22017"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-07-repeater.png",
+      "sha256": "7aab04abb9931756fd89c0b863b014a7585d12e72733d8100861417c17501852"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-08-puffshroom.png",
+      "sha256": "32d0fb0fd6438e4debec9a09dfb4db9564378169b428fd26aa57ed38fd082f79"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-09-sunshroom.png",
+      "sha256": "8dafb6fee4426d51de0ce6aa08d1c4b4d8c20474489b47b70ec3401aa5d56883"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-10-fumeshroom.png",
+      "sha256": "fc9bf94cb0ee14817358fdf117ccc9a7efb5e2972b9ae5dae8b40ec89f2ddd08"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-11-gravebuster.png",
+      "sha256": "49aec51ea44c3dd5ece47e65888bb4b460047d431314c480572ecf50f9c06868"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-12-hypnoshroom.png",
+      "sha256": "195517f57430bf0bcda15a51b8105caacd8f65057a28c52d42fcc0e8c5be95a8"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-13-scaredyshroom.png",
+      "sha256": "176334daa14aa8650788c1511a5bd8f17f26ee3919f93b7dd057a44df5df4f08"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-14-iceshroom.png",
+      "sha256": "9a506daba88590da692cf6b607c38def9726735b9d7dcb6e7c06278c07c4090f"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-15-doomshroom.png",
+      "sha256": "b3dfada30e2fe6bbe50f9ddd7a1476feabd569c3e80cc92bdcf109682d0adce1"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-16-lilypad.png",
+      "sha256": "ff16205119bb5a89dd5d6d469231091292ed4e48e6f0d111017128533f6c14eb"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-17-squash.png",
+      "sha256": "369053f6801c8c5ebd5a0537e3f4aa1d5da46ad396e80e8e591d107d03fe0610"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-18-threepeater.png",
+      "sha256": "f08a5234b8ef6f9530ced953cd7332fb034140124cef1e5ad3a453ede68c7952"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-19-tanglekelp.png",
+      "sha256": "fa407d614f6ed383dbe70b6d5746b6bac6337fcf2cb85d613e89caa809134768"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-20-jalapeno.png",
+      "sha256": "a9d6caf1b875d89ffdd145d57db9f401ba4c83b87811a958d5b7c1f726e0bd2a"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-21-spikeweed.png",
+      "sha256": "9667e2b1683dae790be1e17b0becc7d5ab436bbc2f299cfde25713dce98cd4c0"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-22-torchwood.png",
+      "sha256": "b3ed4e5aacb2a4d74b72ef59ac12bea5ad576980aa4e9518377109036e31b727"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-23-tallnut.png",
+      "sha256": "e779612de094bab9587040a5d20f2a5bc61dfd486480c37ef8e6a06e5ebaa332"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-24-seashroom.png",
+      "sha256": "8152dbb3184303d90b37895334080c43c02f124709283f24cfe8b44a498342aa"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-25-plantern.png",
+      "sha256": "48f37f744ead5d1d7cfd73289dd5f1607f55132e094d161fba0a59ae387c095a"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-26-cactus.png",
+      "sha256": "00ec650d4a3f60ad1e6501b28a2fc18569797bcd9f5dd63a808bcba09e441bfe"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-27-blover.png",
+      "sha256": "8e20bb129e1d822be7062640be18363421c8f2d6409e79cd150bd7b62442b0ce"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-28-splitpea.png",
+      "sha256": "663a3eac653d87b77073463b42307947a4288d82f115a1a971333735f95ab2af"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-29-starfruit.png",
+      "sha256": "2e7807c7cfabeaff65c013aa46094a4f3f1ef9422ed11bc3302f59ef26b41ae8"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-30-pumpkinshell.png",
+      "sha256": "59909222c718cbe00e2276999a74c7fe7e774bd699d520bb9b6169133ef5ab7a"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-31-magnetshroom.png",
+      "sha256": "3e56ee7791688394f16df475d4090b402d812e4071ea085af783cb4f914c6b29"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-32-cabbagepult.png",
+      "sha256": "e9f808572cc4969207701c75ae71b8848390ed6317e81a9fec808ff4f731e296"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-33-flowerpot.png",
+      "sha256": "8082ee8c1eead02c30a6b359f11bb72c9da989758c9b0c2dab4347e2b29d5092"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-34-kernelpult.png",
+      "sha256": "21705de0d5b15b7f7fc0ca16cf3833ff81e063b3b1fed88f3c85dd6a518f9d2e"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-35-instant-coffee.png",
+      "sha256": "89ef89bfde7a18f2632b32c4029a8fbe0781af2c4a61088381b649067b4a00ac"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-36-garlic.png",
+      "sha256": "9076cebf2a71af411d0022266eb299872661c6da0891b753c30ac199fd1c5b14"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-37-umbrella.png",
+      "sha256": "046204af334ece5802cadbf5e6271f022eb6c43bb746590737380d94f12fc2a9"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-38-marigold.png",
+      "sha256": "29bd7bbf3b8a72f62af7b7fcd1e48e1a16c44c7b729511098464433f3e808b36"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-39-melonpult.png",
+      "sha256": "d77d100f4a227235a3f26b559b6255a524011420611bff7134d13764f0da94b3"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-40-gatlingpea.png",
+      "sha256": "17123bf65d90c4e8f59f1decf78ce88cb631955eedef177cd1987dc30da89d44"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-41-twinsunflower.png",
+      "sha256": "e62732c64eba04527cafe73b8afa68f092de39613140f5dfeb832f196edd6bc3"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-42-gloomshroom.png",
+      "sha256": "2932446dcf86076018b986057fedef9f31b6ffec62de0102875aa1ef5b625c3d"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-43-cattail.png",
+      "sha256": "cc85f0e1a73bf9b1e5d8884781a4863396b8ac69971282b03dde16d8a89735d7"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-44-wintermelon.png",
+      "sha256": "1b0967d1e9b304036c818f09fe4f922adf2ec408b96701b03e92dd1622601874"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-45-gold-magnet.png",
+      "sha256": "f391b3a45e6afdc486faba6d8aacb68a44cd80fba83c471508a982a0983556ad"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-46-spikerock.png",
+      "sha256": "9cffe8040ead23bceeb41d21068a7bb116fcc7ac25f4fdc56b7a536ee0d17329"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-47-cobcannon.png",
+      "sha256": "7b3e55a979e64065a8638dd252ca76b24c33f496614549b6c9e4939fbc706838"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-48-imitater.png",
+      "sha256": "bb42270d67113414d977b8f0e1dd3f9392ad2ab4085ac8273c9ffe4fd996e04c"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-49-explode-o-nut.png",
+      "sha256": "eca5ed8ffc3c15804b7fefa6e319ac56abb25b1eee874a94975366e84bd8469a"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-50-giant-wallnut.png",
+      "sha256": "b9b7145885dcd508e6e0ec96d859d1802e104c8b17fcb1b6adc69545d59c6561"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-52-leftpeater.png",
+      "sha256": "ea142902a6a5a04a12a41b402d6ad3a98cacf8ea7a8bed4bfc644c66bcc8f407"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-54-beghouled-button-shuffle.png",
+      "sha256": "6099c23d97495d24820a737f8984fb64f3e7c2d9364e28ecd6403c0b9b7796e1"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-55-beghouled-button-crater.png",
+      "sha256": "879a62887fac4fe6d6109b12323cb4e2de9d1a8d668d5a15b1e39ddab021c7b5"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-56-slot-machine-sun.png",
+      "sha256": "629426472c242e691ca8dd4ff1f0411ae32b46d10d5b928e89d5572d5e5db6a0"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-57-slot-machine-diamond.png",
+      "sha256": "b5af929d6bdc89e28cb0b3f5cf095d35a9424c6da63a998073b5dca943bceeb0"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-58-zombiquarium-snorkle.png",
+      "sha256": "e16423aed8e39e0d21447664e8e5fc9dfef8a317e68a406ba45baf8788435047"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-59-zombiquarium-trophy.png",
+      "sha256": "340a3e29a9a7160280b41d388ab2416bbac0f372abe8833b53e428d377235197"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-60-zombie-normal.png",
+      "sha256": "678f88971be796f281d8a96cc1f95d58bcaf0bb3746f6ade97d63564b1d84c6c"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-61-zombie-traffic-cone.png",
+      "sha256": "7b1c7a590dd6bc71d90c98b10e2d5073717865399ddb3f51e1ea7c35c3a642e2"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-62-zombie-polevaulter.png",
+      "sha256": "55d10f2743e65a429df7500eb0a1fb8c25e14b91508dd13bc1465905a1d677e9"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-63-zombie-pail.png",
+      "sha256": "84f044382e619f8494de2d13a436cdf0fbde37af0e46e9e96a2d1fd47e4903a1"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-64-zombie-ladder.png",
+      "sha256": "0410cbd80d5410c221ed50addabf0c245e8de82c860f4b88305f35b9f469deac"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-65-zombie-digger.png",
+      "sha256": "af1fbe29d8b42ab8e815f1109617390eb54512b5a2b25ac30b629e1f78756da2"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-66-zombie-bungee.png",
+      "sha256": "6aee13ca51cfebd9a12e329c6f0811eeae0828845c4157dc5a4d81f630088284"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-67-zombie-football.png",
+      "sha256": "bb4dcd03bb77943bac0e88786f326c88d4864fa93f532a2940345335ac2f52fe"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-68-zombie-balloon.png",
+      "sha256": "7fc35132e41e6b5dff88b8c7993341957b64d4e1e9910636df4fa1df9d17a80d"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-69-zombie-screen-door.png",
+      "sha256": "af404f17cced94ed1e6075235f6ddc5f6c6f3110b644315b85ae29e41adbe69b"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-70-zomboni.png",
+      "sha256": "a2df40f33ba9cd4f5add1382cfaa3a86c17642e8c19b0b357f48a0de1447daac"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-71-zombie-pogo.png",
+      "sha256": "af8a025b3389af256f7dd9448b90673a4bdfa0884c8fc9a1065f4a2e15ad4128"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-72-zombie-dancer.png",
+      "sha256": "c91b734edacf41c135d7ae918f2deacacc320ff9bbd11b66fd9f8f80f78454a3"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-73-zombie-gargantuar.png",
+      "sha256": "0a581da68ecf2f659b435b889efdbf393b7d599da39cb7839e4848509de1102d"
+    },
+    {
+      "path": "ui/hd/original200/exports/seed-74-zombie-imp.png",
+      "sha256": "9941ed84dad3c386821439503eba8965e69939ab5265e3dbda0f3829a16e33b9"
+    },
+    {
+      "path": "ui/hd/typography/pvz-ui-18.png",
+      "sha256": "3ec1172c429addcb5e27501fc75e915194a6214fbb8c5471bb1845eebfc54515"
+    },
+    {
+      "path": "ui/hd/typography/pvz-ui-22.png",
+      "sha256": "3e989970a349167274a8d3bef4f062889f1916721ba233a15275734756e6255c"
+    },
+    {
+      "path": "ui/hd/typography/pvz-ui-28.png",
+      "sha256": "b7c58bdb77da21338ba208656659eb4e1e8e303e0536da5b370884f07bb448be"
+    },
+    {
+      "path": "ui/hd/typography/pvz-ui-35.png",
+      "sha256": "596f76eac34033811619216f559b95400b5c980223f26d6d40759c0b2714d1df"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BODY-control.png",
+      "sha256": "b9448096713187158f1a26ffc82d56bad86cf08c66531f848eb030f58238d2d8"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BODY-mixed.png",
+      "sha256": "eee084a30072b7f05678f8638cec0f98ba4583d1c6d0bd0515dca7bb81d1601d"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET1-control.png",
+      "sha256": "f0e942368fb6c828ac8ff57baac807a9a746ffdf0534194b9afb7d30b2aba358"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET1-mixed.png",
+      "sha256": "0899e8e16be2fc33ce4e1437d8b3876e912aa4859a425e6074b64862033baad2"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET2-control.png",
+      "sha256": "c8bc1e03921224ffcca6677b6c86041bbdd0ea8df006cf122b67352746a77beb"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET2-mixed.png",
+      "sha256": "5fd25c5e42e71ae07021f58531b4ce1106f14193680e7dd09cc1bb926cf3ee45"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET3-control.png",
+      "sha256": "0eff3d4be23181aa8e066f8fc53d1ea4664615e2548c2bf10d5393217aec4dac"
+    },
+    {
+      "path": "experiment/IMAGE_REANIM_ZOMBIE_BUCKET3-mixed.png",
+      "sha256": "473db3edf9417b773a08f48d7330e0554023cdb6ab540d12b6e11fdb43931de3"
+    }
+  ]
+}
